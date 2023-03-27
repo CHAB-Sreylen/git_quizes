@@ -1,3 +1,1 @@
-# git_quizes
-## Quiz01
-Hello IPE class
+# Welcome to our website. first step you should to register your account by input your username email and your password. And then you go to login your account that you registered and if your forgot password please click reset and then reset your password so you can login successfully.
